@@ -1,0 +1,5 @@
+print("software")
+print("engineering")
+print("code management")
+print("2018203074")
+print("Jeong-Yoo-Ra")
