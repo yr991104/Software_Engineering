@@ -1,5 +1,7 @@
 print("software")
 print("engineering")
 print("code management")
+print("new commit_1")
+print("new commit_2")
 print("2018203074")
 print("Jeong-Yoo-Ra")
